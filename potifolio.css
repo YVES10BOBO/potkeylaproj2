@@ -1,0 +1,187 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'poppins'sans-serif;
+}
+
+.navbar ul {
+    
+    display: flex;
+    padding-left: 70px;
+    justify-content: center;
+    text-decoration: none;
+    list-style-type: none;
+}
+.navbar ul li{
+    padding: 20px;
+}
+
+
+.just{
+    /* background-color: blue;  */
+    display: flex;
+     justify-content: space-between;"
+    
+}
+
+.submit{
+    background-color: yellow;
+}
+.explore{
+    /* background-color: blue; */
+    text-align: center;
+    color: rgb(153, 157, 161);
+}
+
+.second{
+   /* padding: 200px; */
+   /* background-color: blue; */
+   padding-left: 20px;
+   margin-left: 40px;
+}
+
+.experience{
+    display: flex;
+    text-align: center; 
+    
+    
+   
+}
+.education{
+    border-radius: 10px;
+    /* background-color: rgb(33, 90, 90); */
+    border: 1px solid black;
+}
+.Experience{
+    border-radius: 10px;
+    border: 1px solid black;
+    /* background-color: aqua; */
+    /* margin: auto; */
+    margin-left: 30px;
+
+
+    
+}
+
+.social-container {
+	margin: 20px 0;
+  /* justify-content: center; */
+  /* text-align: center; */
+}
+.social-container a {
+	border: 1px solid #201818;
+	border-radius: 50%;
+	display: inline-flex;
+  text-decoration: none;
+	justify-content: center;
+	align-items: center;
+	margin: 0 5px;
+	height: 40px;
+	width: 40px;
+}
+
+
+.who_iam{
+
+font-family: capitalize;
+}
+
+.front-back{
+    display: flex;
+    justify-content: center;
+    padding: px;
+}
+.frontend {
+    list-style-type: none;
+    border: 2px solid black;
+    /* background-color: yellow; */
+}
+.backend{
+    list-style-type: none;
+    margin-left: 50px;
+    border: 2px solid black;
+}
+.frontend , .backend{
+    border-radius: 10px;
+    padding: 30px 90px 20px 30px;
+}
+
+
+
+.five{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    justify-content: space-between;
+    
+     /* padding-left: 400px; */
+     /* border: 2px solid black; */
+     
+     /* background-color: rgb(172, 135, 88); */
+
+}
+.rwanda_one{
+    border-radius: 20px;
+    background: rgb(233, 233, 240);
+    padding: 60px;
+    border: 1px solid black;
+    padding-right: ;
+}
+.rwanda{
+    font-size: larger;
+    font-family: 700px;
+
+    /* background: blue; */
+
+}
+.world{
+    background-color: yellow;
+    padding: 70px;
+    border-color:2px solid black;
+
+}
+.earth{
+background-color: red;
+padding: 70px;
+    
+}
+
+.explore{
+    text-align: center;
+}
+.who_iam{
+    text-align: center;
+}
+
+
+
+
+.linked{
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+    margin: 30px 400px 0px 500px;
+    border-radius: 100px;
+    background: rgb(216, 211, 211);
+}
+.linked_two{
+padding-left: 40px;
+    /* background-color: yellow; */
+    
+}
+
+.navbar_about ul{
+    /* background-color: yellow; */
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    list-style-type: none;
+}
+.navbar_about ul li{
+    padding: 20px;
+}
+
+.copyright{
+    text-align: center;
+}
